@@ -1,0 +1,21 @@
+{
+  "name": "chrome-fresh",
+  "version": "0.1.0",
+  "description": "Whip up a fresh chrome browser",
+  "bin": "chrome-fresh.js",
+  "main": "chrome-fresh.js",
+  "scripts": {
+    "start": "node chrome-fresh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todo"
+  },
+  "author": "Alex Wilmer",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.8.0",
+    "rimraf": "^2.6.2"
+  }
+}
