@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 let path = require('path')
 let rimraf = require('rimraf')
 let puppeteer = require('puppeteer')
