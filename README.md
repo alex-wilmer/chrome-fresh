@@ -1,4 +1,7 @@
 ![logo](https://i.imgur.com/necEoyb.png)
+![randy](https://i.imgur.com/fYkM1K1.png)
+
+<br />
 
 Start a totally fresh chromium instance via [puppeteer](https://pptr.dev/).
 Great for hackin' and slashin' yer browser!
